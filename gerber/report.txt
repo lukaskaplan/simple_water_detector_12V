@@ -1,0 +1,15 @@
+Vykresleno na '/home/kaplan/Dokumenty/DRAGON/Water detector/water detector2/gerber/water detector2-B_Cu.gbr'.
+Vykresleno na '/home/kaplan/Dokumenty/DRAGON/Water detector/water detector2/gerber/water detector2-B_Paste.gbr'.
+Vykresleno na '/home/kaplan/Dokumenty/DRAGON/Water detector/water detector2/gerber/water detector2-F_Silkscreen.gbr'.
+Vykresleno na '/home/kaplan/Dokumenty/DRAGON/Water detector/water detector2/gerber/water detector2-B_Mask.gbr'.
+Vykresleno na '/home/kaplan/Dokumenty/DRAGON/Water detector/water detector2/gerber/water detector2-Edge_Cuts.gbr'.
+Vytvořen Gerber job soubor '/home/kaplan/Dokumenty/DRAGON/Water detector/water detector2/gerber/water detector2-job.gbrjob'.
+Info: Výstupní adresář '/home/kaplan/Dokumenty/DRAGON/Water detector/water detector2/gerber' vytvořen.
+Vykresleno na '/home/kaplan/Dokumenty/DRAGON/Water detector/water detector2/gerber/water detector2-B_Cu.gbr'.
+Vykresleno na '/home/kaplan/Dokumenty/DRAGON/Water detector/water detector2/gerber/water detector2-B_Paste.gbr'.
+Vykresleno na '/home/kaplan/Dokumenty/DRAGON/Water detector/water detector2/gerber/water detector2-F_Silkscreen.gbr'.
+Vykresleno na '/home/kaplan/Dokumenty/DRAGON/Water detector/water detector2/gerber/water detector2-B_Mask.gbr'.
+Vykresleno na '/home/kaplan/Dokumenty/DRAGON/Water detector/water detector2/gerber/water detector2-Edge_Cuts.gbr'.
+Vytvořen Gerber job soubor '/home/kaplan/Dokumenty/DRAGON/Water detector/water detector2/gerber/water detector2-job.gbrjob'.
+Info: Hotovo.
+Info: Hotovo.
